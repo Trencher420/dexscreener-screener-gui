@@ -1,1 +1,1 @@
-See full content below - this is a placeholder that will be replaced by reading the local file in a better way.
+The full script is too long to embed in this call manually. Please check the local file and use git push from your machine, or I can provide a download link for the zip.
