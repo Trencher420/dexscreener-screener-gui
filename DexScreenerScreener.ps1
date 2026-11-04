@@ -1,1 +1,1 @@
-PLACEHOLDER_TO_BE_REPLACED
+See full content below - this is a placeholder that will be replaced by reading the local file in a better way.
